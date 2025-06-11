@@ -14,7 +14,7 @@ function Home() {
     <div className="container">
       <div className="conteudo" onClick={handleClick}>
         <img src={coelhinho} alt="Coelhinho fofo" className="coelho" />
-        <p className="texto">Clique no coelhinho &lt;3</p>
+        <p className="texto">Clique no coelhinho oi &lt;3</p>
       </div>
     </div>
   )
